@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b4NvxKl7/NolmR+oqn2keyHapsz3DmGfz7ldLHASqZAiKkDpk/gg29V6t/+QLfC1uZ5iRtgMSBsUtE85fIb1Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hecto\\OneDrive\\Escritorio\\ApiPedidos\\OnionApiNotas\\NotasWorkshop.Core\\NotasWorkshop.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hecto\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\hecto\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NotasWorkshop.Model",
+    "\\NotasWorkshop.Model\\Contexts",
+    "\\NotasWorkshop.Model\\Contexts\\NotasWorkshop",
+    "\\NotasWorkshop.Services",
+    "\\NotasWorkshop.Services\\Generic"
+  ],
+  "SelectedNode": "\\NotasWorkshop.Model\\Contexts\\NotasWorkshop\\NotasWorkshopDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
